@@ -14,10 +14,9 @@ function Header() {
                 <span>img2</span>
                 <span>img3</span>
             </div>
-            //adicnionar botoes de control
             //deletar isso
 
-            <button>Novo Post</button>
+            <button className = 'button'>Novo Post</button>
 
         </div>
     </header>
