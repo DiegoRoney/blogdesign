@@ -12,7 +12,12 @@ function Header() {
                 <button>Novo Post</button>
                 <span>img1</span>
                 <span>img2</span>
+                <span>img3</span>
             </div>
+            //adicnionar botoes de control
+            //deletar isso
+
+            <button>Novo Post</button>
 
         </div>
     </header>
